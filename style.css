@@ -1,0 +1,308 @@
+.tabela{
+    width: 1200px;
+    height: 639px;
+    display: block;
+    border: 1px solid black;
+}
+.linMenor{
+    width: 1198px;
+    height: 48px;
+    display: block;
+    border: 1px solid black;
+    margin-left: -3px;
+    margin-top: -3px;
+}
+.linMaior{
+    width: 1198px;
+    height: 98px;
+    display: block;
+    border: 1px solid black;
+    margin-left: -3px;
+    margin-top: -1px;
+}
+.titulo{
+    width: 200px;
+    height: 50px;
+    font-size: 40px;
+    padding-left: 500px;
+}
+.horario{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+}
+.dias{
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    padding-right: 43px;
+}
+.hora{
+    width: 110px;
+    height: 77px;
+    font-size: 40px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.artes{
+    width: 156px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 65px;
+    padding-top: 30px;
+}
+.tecnico{
+    width: 156px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+.filosofia{
+    width: 190px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.pi{
+    width: 134px;
+    height: 67px;
+    font-size: 30px;
+    float: left;
+    float: top;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.ingles{
+    width: 166px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 55px;
+    padding-top: 30px;
+}
+.matematica{
+    width: 210px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.sociologia{
+    width: 204px;
+    height: 67px;
+    font-size: 30px;
+    float: left;
+    float: top;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.fisica{
+    width: 161px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.pv{
+    width: 116px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 75px;
+    padding-top: 30px;
+}
+.tecnico2{
+    width: 179px;
+    height: 67px;
+    font-size: 30px;
+    float: left;
+    float: top;
+    padding-left: 55px;
+    padding-top: 30px;
+}
+.tecnico3{
+    width: 175px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 45px;
+    padding-top: 30px;
+}
+.quimica{
+    width: 179px;
+    height: 67px;
+    font-size: 30px;
+    float: left;
+    float: top;
+    padding-left: 55px;
+    padding-top: 30px; 
+}
+.historia{
+    width: 166px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+.portugues{
+    width: 201px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.geografia{
+    width: 181px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.portugues2{
+    width: 200px;
+    height: 67px;
+    font-size: 30px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.matematica2{
+    width: 181px;
+    height: 67px;
+    font-size: 25px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.biologia{
+    width: 156px;
+    height: 67px;
+    font-size: 25px;
+    border-right: 1px solid black;
+    float: left;
+    float: top;
+    padding-left: 35px;
+    padding-top: 30px;
+}
+.hora2{
+    width: 100px;
+    height: 44px;
+    font-size: 30px;
+    float: left;
+    float: top;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    padding-left: 30px
+}
+.intervalo{
+    width: 186px;
+    height: 44px;
+    font-size: 25px;
+    padding-left: 35px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    float: left;
+    float: top;
+}
+.intervalo2{
+    width: 163px;
+    height: 44px;
+    font-size: 25px;
+    padding-left: 28px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    float: left;
+    float: top;
+}
+.intervalo3{
+    width: 185px;
+    height: 44px;
+    font-size: 25px;
+    padding-left: 35px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    float: left;
+    float: top;
+}
+.intervalo4{
+    width: 163px;
+    height: 44px;
+    font-size: 25px;
+    padding-left: 28px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    float: left;
+    float: top;
+}
+.intervalo5{
+    width: 184px;
+    height: 44px;
+    font-size: 25px;
+    padding-left: 50px;
+    border-top: 1px solid black;
+    float: left;
+    float: top;
+}
+/* ID */
+
+/* CORES */
+.corCinza{
+    background-color: gray;
+}
+.corRoxo{
+    background-color: rgb(117, 92, 117);
+}
+.corVerde{
+    background-color: rgb(1, 99, 1);
+}
+.corLaranja{
+    background-color: orange;
+}
+.corVermelho{
+    background-color: rgb(245, 66, 66);
+}
+.corAzulClaro{
+    background-color: rgb(135, 189, 207);
+}
+.corAzul{
+    background-color: rgb(34, 34, 255);
+}
